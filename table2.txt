@@ -1,0 +1,51 @@
+ID_run	BCG_type	Status
+ERR234151	BCG	identified as BCG
+ERR161048	BCG	identified as BCG
+ERR212052	BCG	identified as BCG
+SRR1162747_SRR1166866	BCG	identified as BCG
+ERR017778	BCG	identified as BCG
+ERR019852	BCG	identified as BCG
+SRR3647355	BCG	identified as BCG
+SRR7496578	BCG	identified as BCG
+ERR2815610	BCG	not indicated as BCG in the project
+ERR2815602	BCG	not indicated as BCG in the project
+SRR5485728	BCG	identified as BCG
+SRR6930897	BCG	not indicated as BCG in the project
+SRR6046156	BCG	identified as BCG
+SRR6045637	BCG	identified as BCG
+SRR6046614	BCG	identified as BCG
+SRR6046018	BCG	identified as BCG
+SRR9596060	BCG	identified as BCG
+SRR9596061	BCG	identified as BCG
+SRR9596064	BCG	identified as BCG
+SRR10321131	BCG	identified as BCG
+SRR10321135	BCG	identified as BCG
+SRR10321144	BCG	identified as BCG
+SRR10321147	BCG	identified as BCG
+SRR10321153	BCG	identified as BCG
+SRR9593170	BCG	identified as BCG
+ERR766213	BCG Birkhaug	identified as BCG
+ERR766215	BCG Connaught	identified as BCG
+ERR766216	BCG Danish	identified as BCG
+SRR9596057	BCG Danish	identified as BCG
+SRR9596058	BCG Danish	identified as BCG
+SRR9596059	BCG Danish	identified as BCG
+SRR9596063	BCG Danish	identified as BCG
+SRR9596066	BCG Danish	identified as BCG
+SRR9596067	BCG Danish	identified as BCG
+SRR9596068	BCG Danish	identified as BCG
+SRR9596070	BCG Danish	identified as BCG
+SRR7983754	BCG Danish	identified as BCG
+ERR766218	BCG Glaxo	identified as BCG
+ERR766219	BCG Japan	identified as BCG
+SRR8102332	BCG M1_S49	identified as BCG
+ERR766220	BCG Moreau	identified as BCG
+ERR766221	BCG Pasteur	identified as BCG
+SRR8234774	BCG Pasteur	identified as BCG
+SRR8234778	BCG Pasteur	identified as BCG
+ERR766222	BCG Phipps	identified as BCG
+ERR766223	BCG Prague	identified as BCG
+ERR766224	BCG Russia	identified as BCG
+SRR9593176	BCG SL_361	identified as BCG
+ERR766225	BCG Sweden	identified as BCG
+ERR766226	BCG Tice	identified as BCG
